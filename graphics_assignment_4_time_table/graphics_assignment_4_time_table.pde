@@ -10,7 +10,7 @@ String course4 = "Science14";
 void setup() {
   size(700, 500); // Size of canvas
  
-`
+
 
 
 
@@ -19,7 +19,20 @@ void setup() {
 }
 
 void draw() {
- rect(7
+ rect(0,0,275,120);
 
+ rect(276,0,275,120);
+
+ rect(0,121,275,120);
+
+ rect(276,121,275,120);
+ 
+ rect(0,242,275,120);
+ 
+ rect(276,242,275,120);
+ 
+ rect(0,363,275,120);
+
+ rect(276,363,275,120);
 
 }
